@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\User\source\repos\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\User\source\repos\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.GameMenu.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.FirstLocation.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.SecondLocation.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.ThirdLocation.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.GuessNumber.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.FourthLocation.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.FifthLocation.resources
+C:\Users\User\source\repos\FinalGame\obj\Debug\FinalGame.FinalLocation.resources
